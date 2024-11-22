@@ -1,0 +1,6 @@
+1, Sapiens, Yuval Noah
+2, 1984, George Orwell
+3, Dune, Frank Herbert
+4, Beloved, Toni Morrison
+5, Inferno, Dante Alighieri
+6, Broken Wings, Khalil Gibran
